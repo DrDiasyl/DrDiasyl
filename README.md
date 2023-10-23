@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @DrDiasyl
-- 👀 I’m interested in Space Station 13, moths, music production, sound design, art
-- 🌱 I’m currently learning to do anything really lol
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me diasyltm@gmail.com
+Hey, its me DrDiasyl aka DrTuxedo, MrTuxedo, BlueTuxedo, or just Diasyl.
+I'm that guy who opens dozen of sound PRs on TGstation.
 
 <!---
 DrDiasyl/DrDiasyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
